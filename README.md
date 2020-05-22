@@ -8,4 +8,4 @@
 
 
 
-![App Screenshot](https://github.com/nicklvsa/deno-covid-tracker/deno.png)
+![App Screenshot](https://raw.githubusercontent.com/nicklvsa/deno-covid-tracker/master/deno.png)
