@@ -4,7 +4,7 @@ import Container from './container.ts';
 import GUI from './gui.ts';
 
 // TODO: should load these values in from environment
-const container: Container = new Container('YOUR_API_KEY', 'covid-19-data.p.rapidapi.com');
+const container: Container = new Container('29a657df82mshc24702e4bca811fp1685b0jsn024813182074', 'covid-19-data.p.rapidapi.com');
 const gui: GUI = new GUI(1200, 400, 'Covid Tracker');
 
 const tracker = async (data: TrackerData): Promise<void> => {
